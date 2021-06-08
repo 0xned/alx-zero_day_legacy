@@ -1,1 +1,1 @@
-**First ALX git task**
+**First git project in ALX proper**
